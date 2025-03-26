@@ -1,2 +1,2 @@
 # Ola-Ride-Analytics-Dashboard
-Developed an Ola Ride Analytics Dashboard using SQL, Excel, and Power BI to analyze 100,000+ ride records, extracting insights on bookings, revenue (₹35M), cancellations (28.08%), and ratings. Designed an interactive summary page with visualizations for data-driven decision-making.
+Developed an interactive Ola Ride Analytics Dashboard using SQL, Excel, and Power BI to analyze 100,000+ ride-booking records. Extracted key insights on total bookings (103,024), revenue (₹35M), cancellation rate (28.08%), and customer ratings. Designed an "Overall" summary page with pie charts, graphs, and trend analysis to visualize booking status, vehicle type distribution, and revenue trends, enabling data-driven decision-making.
